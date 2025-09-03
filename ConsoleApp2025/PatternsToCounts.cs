@@ -3,6 +3,7 @@
     public static class PatternsToCounts
     {
 
+      
         public static int TotalPatternCount(int NoPatts, int NoCounts)
         {
             //// declare
@@ -55,5 +56,9 @@
 
         ////    return fitsDegree;
         ////}
+    
+        //// Data samples
+        //  key, song name, length, coutns/beats, measure/Phrases
+    
     }
 }
